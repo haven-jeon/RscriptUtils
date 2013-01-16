@@ -1,0 +1,14 @@
+Package: RscriptUtils
+Type: Package
+Title: Tools to make developing Rscript easier
+Version: 0.01
+Date: 2013-01-17
+Author: Heewon Jeon
+Maintainer: Heewon Jeon <madjakarta@gmail.com>
+Description: Collection of functions for Rscript
+Depends:
+    R (>= 2.15)
+License: GPL (>= 3)
+Repository: CRAN
+Collate:
+    'Rbatch.R'

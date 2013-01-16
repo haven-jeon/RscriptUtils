@@ -1,0 +1,7 @@
+export(get_absolute_rscript_path)
+export(get_relative_rscript_path)
+export(source_on_rscript)
+export(stderr_to_file)
+export(stdout_to_file)
+export(write_stderr_msg)
+export(write_stdout_msg)
